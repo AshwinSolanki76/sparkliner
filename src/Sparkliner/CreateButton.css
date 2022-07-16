@@ -1,0 +1,12 @@
+button{
+    text-align: center;
+    width: max-content;
+    background-color: #222222;
+    color: aliceblue;
+    align-items: center;
+    border-radius: 15px;
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+
+}

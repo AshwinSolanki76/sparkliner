@@ -1,0 +1,8 @@
+textarea{
+    border-radius: 15px;
+    border-color: #eae8e8;
+    min-width: 200px;
+}
+label{
+    font-weight: 1000;
+}
