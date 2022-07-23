@@ -3,9 +3,7 @@ import "./home.css"
 
 function App() {
   return (
-    <div>
-      <Card />
-    </div>
+    <Card />
   );
 }
 

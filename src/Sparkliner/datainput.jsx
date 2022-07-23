@@ -5,7 +5,8 @@ function DataInput() {
     return ( 
         <React.Fragment>
             <label>Data</label>
-            <textarea  name="Data" id="Data" cols="30" rows="10"></textarea>
+            <br />
+            <textarea  name="Data" id="Data" cols="39" rows="10"></textarea>
         </ React.Fragment>
      );
 }
